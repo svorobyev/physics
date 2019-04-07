@@ -1,0 +1,13 @@
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (1, 'What is the value of gravitational acceleration ?', '9.8');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (2, 'How many laws Newton established ?', '3');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (3, 'Om Law ?', 'I = U/R');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (4, 'What is measure of inertia ?', 'Mass');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (5, 'Gook Law for elastic deformation ?', 'F = k*x');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (6, 'The instrument that measures and records the relative humIDity of air is ?', 'Hygrometer');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (7, 'The shape of our milky way galaxy is ?', '');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (8, 'The different colours of different stars are due to the variation of ?', 'Temperature');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (9, 'Instrument used to measure the force and velocity of the wind is ?', 'Anemometer');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (10, 'Which combination of colour the most convenient during day and night time ?', 'Red and Green');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (11, 'Woolen clothes keep the body warm because...', 'Wool is a bad conductor');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (12, 'If the length of a simple pendulum is halved then its period of oscillation is', 'Decreased by a sqrt(2) ');
+INSERT INTO EXERCISE (ID, QUESTION, ANSWER) VALUES (13, 'In a refrigerator what produces the cooling ?', 'The evaporation of a volatile liquid');
